@@ -9,6 +9,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vi13x&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+<img width="300" height="140" alt="image" src="https://github.com/user-attachments/assets/b5306aa6-d10d-4bab-96d8-ec190e97c4f0" />
 
 [![](https://visitcount.itsvg.in/api?id=vi13x&icon=0&color=0)](https://visitcount.itsvg.in)
 
